@@ -1,0 +1,263 @@
+{
+    "article": {
+        "id": 410,
+        "slug": "Create-a-new-implementation-202",
+        "title": "Create a new implementation",
+        "description": "join the community by creating a new implementation",
+        "body": "Share your knowledge and enpower the community by creating a new implementation",
+        "createdAt": "2021-11-20T12:12:41.197Z",
+        "updatedAt": "2021-11-20T12:12:41.197Z",
+        "authorId": 202,
+        "tagList": [
+            "implementations"
+        ],
+        "author": {
+            "username": "Gerome",
+            "bio": null,
+            "image": "https://api.realworld.io/images/demo-avatar.png"
+        },
+        "comments": [
+            {
+                "id": 59,
+                "createdAt": "2021-11-20T12:12:41.343Z",
+                "updatedAt": "2021-11-20T12:12:41.343Z",
+                "body": "Before starting a new implementation, please check if there is any work in progress for the stack you want to work on.",
+                "author": {
+                    "username": "Gerome",
+                    "bio": null,
+                    "image": "https://api.realworld.io/images/demo-avatar.png"
+                }
+            },
+            {
+                "id": 60,
+                "createdAt": "2021-11-20T12:12:41.494Z",
+                "updatedAt": "2021-11-20T12:12:41.494Z",
+                "body": "If someone else has started working on an implementation, consider jumping in and helping them! by contacting the author.",
+                "author": {
+                    "username": "Gerome",
+                    "bio": null,
+                    "image": "https://api.realworld.io/images/demo-avatar.png"
+                }
+            },
+            {
+                "id": 76,
+                "createdAt": "2021-11-21T04:04:48.594Z",
+                "updatedAt": "2021-11-21T04:04:48.594Z",
+                "body": "dingus",
+                "author": {
+                    "username": "dingus",
+                    "bio": "aasdfad",
+                    "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                }
+            },
+            {
+                "id": 80,
+                "createdAt": "2021-11-21T09:37:05.054Z",
+                "updatedAt": "2021-11-21T09:37:05.054Z",
+                "body": "H",
+                "author": {
+                    "username": "Da",
+                    "bio": null,
+                    "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                }
+            },
+            {
+                "id": 81,
+                "createdAt": "2021-11-21T10:39:03.282Z",
+                "updatedAt": "2021-11-21T10:39:03.282Z",
+                "body": "test",
+                "author": {
+                    "username": "Luc",
+                    "bio": "fsd",
+                    "image": "sfsfdq"
+                }
+            },
+            {
+                "id": 83,
+                "createdAt": "2021-11-21T11:20:46.338Z",
+                "updatedAt": "2021-11-21T11:20:46.338Z",
+                "body": "これはいいですね",
+                "author": {
+                    "username": "uekj",
+                    "bio": null,
+                    "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                }
+            }
+        ],
+        "favoritedBy": [
+            {
+                "id": 17,
+                "email": "asd@asdkraft.ru",
+                "username": "qqw",
+                "password": "$2a$10$x3G0JNbjuaRmG9gxIX/B4.lcQ7iafYihR5jKElDC7gyQVIeR6YcsS",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 63,
+                "email": "123456",
+                "username": "moi",
+                "password": "$2a$10$QIFNf0ea7kO1FruaDFTBwec96qo5pzIUpYQ51JRkmxCRVhfUHoSS6",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 292,
+                "email": "vccxvaxq",
+                "username": "gklcsipl",
+                "password": "$2a$10$8sPmLtokdrVw.vZlka0vVuTqTfGYCECSX0QCkjGPw4D68PPVHEtCm",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 330,
+                "email": "hootmanjosh3@gmail.com",
+                "username": "hootdunk",
+                "password": "$2a$10$oMAT758CdPscOCPdnkmCzumny.nrIR3odlvTDhorh1jJu2sNdodne",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 338,
+                "email": "artem.bondar@gmail.com",
+                "username": "artem",
+                "password": "$2a$10$gpOVQosB2TpHTkaYk53ov.Y5i6/wRtyDPfpa2z6HxQGVAPqDVQekG",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 344,
+                "email": "rte@tsdf.com",
+                "username": "test200",
+                "password": "$2a$10$Jn.nr1MVe88BsdN7EYuJI.Ec2UdLeYIDVhRLjEiZJBl0lYuB60N0K",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 355,
+                "email": "qwe@qwe.qwe",
+                "username": "qwe",
+                "password": "$2a$10$G4isLP.RHXebjkK04QbJ1ucimknJmUHPF6Kh7nKWUtQB1MfbbDBw.",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 377,
+                "email": "asdadsads@asdasd.de",
+                "username": "asdadsads@asdasd.de",
+                "password": "$2a$10$O8de1upM8iaFIcsh747YGeRJwP4bktB.J5wiuqe9AT452CmTqk9ee",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 383,
+                "email": "test@test",
+                "username": "test12",
+                "password": "$2a$10$6EPVNZI9bqayj5y2HX/vmuVic9j7ehM3PJOlse5CwIlvy4TH.sMjq",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 425,
+                "email": "dingus3@gmail.com",
+                "username": "dingus",
+                "password": "$2a$10$ciCr1t5xRvgLDA3uD1UaJu3D/zFmaraLyI/xbRMameakSaFySeiQ2",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": "aasdfad",
+                "demo": false
+            },
+            {
+                "id": 516,
+                "email": "772512900@qq.com",
+                "username": "newbuilder",
+                "password": "$2a$10$OuEL18iXjLC/SxTPTc4u4uIzXUBwhQ1J1uHLjkpafvG3HJ.XdF8pm",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 517,
+                "email": "salamjjjjjs@gmail.com",
+                "username": "salamjjjjjs",
+                "password": "$2a$10$bmg.zyTT4W5nHHdW781v.uKebWV/WhHo7uL3kMDvgAqPkv3YTCAly",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 521,
+                "email": "adad@gmail.com",
+                "username": "adad",
+                "password": "adad",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 524,
+                "email": "546658991@qq.com",
+                "username": "ty",
+                "password": "$2a$10$eEIwIuyyAoj0GZh.58I5/OrYl7wdgBG/T7iB/KK.kXxRM44TXWhgi",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 527,
+                "email": "kon@ya.ru",
+                "username": "kons",
+                "password": "m74pzzT9gH7T8ca",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 533,
+                "email": "kfg@ya.ru",
+                "username": "kfg",
+                "password": "$2a$10$brwQfRXeuxlqqg6fdzA5Hu4Lm7ahCZQOx.uan46pp3KeGCA/oLSym",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 539,
+                "email": "andy@example.com",
+                "username": "Andy",
+                "password": "$2a$10$4QV3DNhxgXpCdsXwyuTZxuu6bBs81dwgXCmEL6D6IdHD/.H63hV4G",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            },
+            {
+                "id": 544,
+                "email": "maikonad@maikonad.com",
+                "username": "maikonad",
+                "password": "$2a$10$fH.3pKW4XHz/SkgFYRBAaevqm0j9ilxx9s4cvKwseiqq7w4FRmr/C",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": "maikonad",
+                "demo": false
+            },
+            {
+                "id": 601,
+                "email": "robertdaniel.csaszar@gmail.com",
+                "username": "Robert Csaszar",
+                "password": "$2a$10$E3Cf2IaBCSzSf4N6ZV2v1uwifkWJKs8u0NC9R3R0jSWjQonkHwnSa",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            }
+        ],
+        "favorited": true,
+        "favoritesCount": 19
+    }
+}
