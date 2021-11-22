@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="39.6070" tests="5" failures="3">
+  <testsuite name="Root Suite" timestamp="2021-11-22T14:12:21" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Test with backend" timestamp="2021-11-22T14:12:21" tests="5" time="39.5880" failures="3">
+    <testcase name="Test with backend Verify correct request and response" time="3.0300" classname="Verify correct request and response">
+      <failure message="expected 307 to equal 200" type="AssertionError"><![CDATA[AssertionError: expected 307 to equal 200
+    at Context.eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:124:42)]]></failure>
+    </testcase>
+    <testcase name="Test with backend Intercepting and modifying the request and respons" time="3.7740" classname="Intercepting and modifying the request and respons">
+      <failure message="Cannot read properties of undefined (reading &apos;description&apos;)" type="TypeError"><![CDATA[TypeError: Cannot read properties of undefined (reading 'description')
+    at eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:135:33)]]></failure>
+    </testcase>
+    <testcase name="Test with backend Should gave tags with routing objects" time="1.9300" classname="Should gave tags with routing objects">
+    </testcase>
+    <testcase name="Test with backend Verify Global feed likes count" time="2.4070" classname="Verify Global feed likes count">
+    </testcase>
+    <testcase name="Test with backend Delete a new article in a global feed" time="4.0020" classname="Delete a new article in a global feed">
+      <failure message="expected &apos;Request from API&apos; to not equal &apos;Request from API&apos;" type="AssertionError"><![CDATA[AssertionError: expected 'Request from API' to not equal 'Request from API'
+    at Context.eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:202:47)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="14.7950" tests="1" failures="1">
+  <testsuite name="Root Suite" timestamp="2021-11-22T10:22:24" tests="0" file="cypress/integration/firstTest.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Test with backend" timestamp="2021-11-22T10:22:24" tests="1" time="14.7520" failures="1">
+    <testcase name="Test with backend Delete a new article in a global feed" time="3.7340" classname="Delete a new article in a global feed">
+      <failure message="expected &apos;Request from API&apos; to not equal &apos;Request from API&apos;" type="AssertionError"><![CDATA[AssertionError: expected 'Request from API' to not equal 'Request from API'
+    at Context.eval (http://localhost:4200/__cypress/tests?p=cypress\integration\firstTest.spec.js:202:47)]]></failure>
+    </testcase>
+  </testsuite>
+</testsuites>
