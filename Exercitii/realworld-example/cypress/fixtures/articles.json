@@ -1,0 +1,354 @@
+{
+    "articles": [
+        {
+            "slug": "Create-a-new-implementation-202",
+            "title": "Create a new implementation",
+            "description": "join the community by creating a new implementation",
+            "body": "Share your knowledge and enpower the community by creating a new implementation",
+            "createdAt": "2021-11-20T12:12:41.197Z",
+            "updatedAt": "2021-11-20T12:12:41.197Z",
+            "tagList": [
+                "implementations"
+            ],
+            "author": {
+                "username": "Gerome",
+                "bio": null,
+                "image": "https://api.realworld.io/images/demo-avatar.png"
+            },
+            "comments": [
+                {
+                    "id": 99,
+                    "createdAt": "2021-11-22T06:53:22.551Z",
+                    "updatedAt": "2021-11-22T06:53:22.551Z",
+                    "body": "De",
+                    "author": {
+                        "username": "Demo",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 106,
+                    "createdAt": "2021-11-22T09:59:58.136Z",
+                    "updatedAt": "2021-11-22T09:59:58.136Z",
+                    "body": "dwqdwq",
+                    "author": {
+                        "username": "user123",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 110,
+                    "createdAt": "2021-11-22T12:07:54.696Z",
+                    "updatedAt": "2021-11-22T12:07:54.696Z",
+                    "body": "aaaa",
+                    "author": {
+                        "username": "newbuilder1",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 111,
+                    "createdAt": "2021-11-22T12:23:59.440Z",
+                    "updatedAt": "2021-11-22T12:23:59.440Z",
+                    "body": "Ewad isunabas nelseaho wuztuaju ovtatep wevlecim ujerocnet fiwkub bihes pi veomeho polit hamnam zur novwo ega we. Ne rag jegiwo wog potal tujev salju mulekre didzi ca wahcuupu gaziba ohdusli siwwoko zogpulo pedsepse. Pof le me ju oboruwtul lap tovobmig wagalef afu gi obwevzak bumkova pem cu du. So farejije be diji dag er zi ni bo joabo puiwetij pe uwuurule.",
+                    "author": {
+                        "username": "Mauri",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 112,
+                    "createdAt": "2021-11-22T12:24:29.472Z",
+                    "updatedAt": "2021-11-22T12:24:29.472Z",
+                    "body": "Okolu dugida rigu emode oz em et ropo subiwto zuzepo vej jaf watfub mentadab ki dif. Sakvizep fog di taprikmi puzvor ge ciap wupaza vib vaven ruazepav ukku bem jan wajavoge. Tetafvuj egeto cajulmi haphac wenusis rijvakru hu weketu vowe sagham wul ocuninhob gikgurne cowraba hijhire igielioh jonobfo. Zi mam rapiaza cashentuw wotelod gav ig newreom egi nooc iro ruk bopil. Eteturpu ropvuc fe wuncup mos ofuisu rib oko taj ef delofco ek boocde. Meogane maspucag am tuwmimo jup okirihad emme rup fupel hope zotelab rezza fius nu acnika arije.",
+                    "author": {
+                        "username": "Mauri",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 59,
+                    "createdAt": "2021-11-20T12:12:41.343Z",
+                    "updatedAt": "2021-11-20T12:12:41.343Z",
+                    "body": "Before starting a new implementation, please check if there is any work in progress for the stack you want to work on.",
+                    "author": {
+                        "username": "Gerome",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/demo-avatar.png"
+                    }
+                },
+                {
+                    "id": 60,
+                    "createdAt": "2021-11-20T12:12:41.494Z",
+                    "updatedAt": "2021-11-20T12:12:41.494Z",
+                    "body": "If someone else has started working on an implementation, consider jumping in and helping them! by contacting the author.",
+                    "author": {
+                        "username": "Gerome",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/demo-avatar.png"
+                    }
+                },
+                {
+                    "id": 144,
+                    "createdAt": "2021-11-22T14:24:19.529Z",
+                    "updatedAt": "2021-11-22T14:24:19.529Z",
+                    "body": "ffdfg",
+                    "author": {
+                        "username": "dtrd",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 145,
+                    "createdAt": "2021-11-22T14:24:28.968Z",
+                    "updatedAt": "2021-11-22T14:24:28.968Z",
+                    "body": "dddd",
+                    "author": {
+                        "username": "dtrd",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 76,
+                    "createdAt": "2021-11-21T04:04:48.594Z",
+                    "updatedAt": "2021-11-21T04:04:48.594Z",
+                    "body": "dingus",
+                    "author": {
+                        "username": "dingus",
+                        "bio": "aasdfad",
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 80,
+                    "createdAt": "2021-11-21T09:37:05.054Z",
+                    "updatedAt": "2021-11-21T09:37:05.054Z",
+                    "body": "H",
+                    "author": {
+                        "username": "Da",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 81,
+                    "createdAt": "2021-11-21T10:39:03.282Z",
+                    "updatedAt": "2021-11-21T10:39:03.282Z",
+                    "body": "test",
+                    "author": {
+                        "username": "Luc",
+                        "bio": "fsd",
+                        "image": "sfsfdq"
+                    }
+                },
+                {
+                    "id": 83,
+                    "createdAt": "2021-11-21T11:20:46.338Z",
+                    "updatedAt": "2021-11-21T11:20:46.338Z",
+                    "body": "これはいいですね",
+                    "author": {
+                        "username": "uekj",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 91,
+                    "createdAt": "2021-11-21T20:37:32.427Z",
+                    "updatedAt": "2021-11-21T20:37:32.427Z",
+                    "body": "How can I get the API documentation?",
+                    "author": {
+                        "username": "SuvStreet",
+                        "bio": null,
+                        "image": "https://sun9-80.userapi.com/impg/0nQA12FuBusMcRE5uG8Fs_JOQF_-WjuMVBjuOg/1nrBNK-Zlyw.jpg?size=720x1080&quality=96&sign=9d72d4f0f1bd5c07d92fbb84a2204040&type=album"
+                    }
+                },
+                {
+                    "id": 159,
+                    "createdAt": "2021-11-22T19:28:01.542Z",
+                    "updatedAt": "2021-11-22T19:28:01.542Z",
+                    "body": "test",
+                    "author": {
+                        "username": "hmmmmm",
+                        "bio": "it's meo! ",
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 160,
+                    "createdAt": "2021-11-22T19:28:02.030Z",
+                    "updatedAt": "2021-11-22T19:28:02.030Z",
+                    "body": "test",
+                    "author": {
+                        "username": "hmmmmm",
+                        "bio": "it's meo! ",
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 166,
+                    "createdAt": "2021-11-23T01:50:35.052Z",
+                    "updatedAt": "2021-11-23T01:50:35.052Z",
+                    "body": "123",
+                    "author": {
+                        "username": "weiloong",
+                        "bio": "test",
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 167,
+                    "createdAt": "2021-11-23T02:10:18.424Z",
+                    "updatedAt": "2021-11-23T02:10:18.424Z",
+                    "body": "test",
+                    "author": {
+                        "username": "zz",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 178,
+                    "createdAt": "2021-11-23T11:44:50.148Z",
+                    "updatedAt": "2021-11-23T11:44:50.148Z",
+                    "body": "assafsfdsa",
+                    "author": {
+                        "username": "testuser1",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 180,
+                    "createdAt": "2021-11-23T11:55:21.676Z",
+                    "updatedAt": "2021-11-23T11:55:21.676Z",
+                    "body": "ыфавфыаы",
+                    "author": {
+                        "username": "avmusatov",
+                        "bio": "rdgrdgdsf",
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 181,
+                    "createdAt": "2021-11-23T11:55:42.808Z",
+                    "updatedAt": "2021-11-23T11:55:42.808Z",
+                    "body": "asfesdf21321wd",
+                    "author": {
+                        "username": "avmusatov",
+                        "bio": "rdgrdgdsf",
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 184,
+                    "createdAt": "2021-11-23T12:33:14.648Z",
+                    "updatedAt": "2021-11-23T12:33:14.648Z",
+                    "body": "yey  s\n",
+                    "author": {
+                        "username": "jugal",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 186,
+                    "createdAt": "2021-11-23T13:02:10.842Z",
+                    "updatedAt": "2021-11-23T13:02:10.842Z",
+                    "body": "hello",
+                    "author": {
+                        "username": "candy",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                }
+            ],
+            "favoritesCount": 43,
+            "favorited": false
+        },
+        {
+            "slug": "Welcome-to-RealWorld-project-202",
+            "title": "Welcome to RealWorld project",
+            "description": "Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+            "body": "See how the exact same Medium.com clone (called Conduit) is built using different frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec",
+            "createdAt": "2021-11-20T12:12:40.469Z",
+            "updatedAt": "2021-11-20T12:12:40.469Z",
+            "tagList": [
+                "welcome",
+                "introduction"
+            ],
+            "author": {
+                "username": "Gerome",
+                "bio": null,
+                "image": "https://api.realworld.io/images/demo-avatar.png"
+            },
+            "comments": [
+                {
+                    "id": 56,
+                    "createdAt": "2021-11-20T12:12:40.623Z",
+                    "updatedAt": "2021-11-20T12:12:40.623Z",
+                    "body": "While most \"todo\" demos provide an excellent cursory glance at a framework's capabilities, they typically don't convey the knowledge & perspective required to actually build real applications with it.",
+                    "author": {
+                        "username": "Gerome",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/demo-avatar.png"
+                    }
+                },
+                {
+                    "id": 57,
+                    "createdAt": "2021-11-20T12:12:40.756Z",
+                    "updatedAt": "2021-11-20T12:12:40.756Z",
+                    "body": "RealWorld solves this by allowing you to choose any frontend (React, Angular, & more) and any backend (Node, Django, & more) and see how they power a real-world, beautifully designed full-stack app called Conduit.",
+                    "author": {
+                        "username": "Gerome",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/demo-avatar.png"
+                    }
+                },
+                {
+                    "id": 179,
+                    "createdAt": "2021-11-23T11:45:04.049Z",
+                    "updatedAt": "2021-11-23T11:45:04.049Z",
+                    "body": ") and see how they power a",
+                    "author": {
+                        "username": "testuser1",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 187,
+                    "createdAt": "2021-11-23T14:03:11.789Z",
+                    "updatedAt": "2021-11-23T14:03:11.789Z",
+                    "body": "  gf",
+                    "author": {
+                        "username": "dtrd",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                },
+                {
+                    "id": 188,
+                    "createdAt": "2021-11-23T14:03:12.329Z",
+                    "updatedAt": "2021-11-23T14:03:12.329Z",
+                    "body": "  gf",
+                    "author": {
+                        "username": "dtrd",
+                        "bio": null,
+                        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+                    }
+                }
+            ],
+            "favoritesCount": 17,
+            "favorited": false
+        }
+    ],
+    "articlesCount": 2
+}
