@@ -7,15 +7,16 @@ describe('Test Application', () => {
 
     beforeEach('Open Homepage', () => {
         cy.intercept({ method: 'Get', path: 'tags' }, { fixture: 'tags.json' })
-        cy.loginToApplication()
+        cy.openHomePage()
+        // cy.loginToApplication()
     })
 
-    it('Sign Up', () => {
-        onAccountPage.createNewAccount("test@test31.com", 'Testing')
+    it.only('Sign Up', () => {
+        onAccountPage.createNewAccount('Test723', 'test@test712.com', 'Testing')
     })
 
     it('Sign In', () => {
-        onAccountPage.logIn('robertdaniel.csaszar@gmail.com', 'CypressTesting')
+        onAccountPage.logIn('test@test29.com', 'Testing')
     })
 
     it('Add new Article', () => {
@@ -30,7 +31,7 @@ describe('Test Application', () => {
         onArticlePage.deleteArticleFromProfile('test@test28.com', 'Testing', 0)
     })
 
-    it.only('Like Article', () => {
+    it('Like Article', () => {
         onArticlePage.likeArticle(0)
     })
 
