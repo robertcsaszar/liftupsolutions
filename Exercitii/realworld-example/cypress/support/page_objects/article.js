@@ -17,6 +17,11 @@ function confirmLike(index, likes){
     })
 }
 
+function checkEditedArticle(title, body, tag){
+    cy.get('h1').should('contain', title)
+    cy.get('.article-content').find('p').should('contain', body)
+    cy.get('.tag-list').find('li').should('contain', tag)
+}
 
 export class ArticlePage {
 
@@ -119,6 +124,47 @@ export class ArticlePage {
 
         })
 
+    }
+
+    editArticle(email, password, title, desc, body, tags){
+        cy.contains('Global Feed').click()
+        cy.intercept('GET', Cypress.env('apiUrl')+'/api/articles?limit=10&offset=0').as('getArticles')
+        
+        cy.request('POST', 'https://api.realworld.io/api/users/login',
+        {
+            user:
+            {
+                email: email,
+                password: password
+            }
+        }).then(response => {
+            const myUserName = response.body.user.username
+            const token = response.body.user.token
+
+            cy.get('@getArticles').its('response.body.articles').then(articles => {
+                let myArticle = ''
+
+                for(var i=0; i<articles.length; i++){
+                    if(articles[i].author.username == myUserName){
+                        myArticle = articles[i].author.username;
+
+                        cy.contains('.article-preview', myArticle).then(editArticle => {
+                            cy.wrap(editArticle).click()
+                            cy.get('.article-actions').contains('Edit Article').click()
+                        })
+
+                        cy.get('[placeholder="Article Title"]').clear().type(title)
+                        cy.get('[placeholder="What\'s this article about?"]').clear().type(desc)
+                        cy.get('[placeholder="Write your article (in markdown)"]').clear().type(body)
+                        cy.get('[placeholder="Enter tags"]').type(tags).type('{enter}')
+                        cy.contains('Publish Article ').click()
+                        break;
+                    }
+                }
+                checkEditedArticle(title, body, tags)
+            })
+
+        })        
     }
 }
 

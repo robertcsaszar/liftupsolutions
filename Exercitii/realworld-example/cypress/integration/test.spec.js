@@ -6,17 +6,16 @@ import { onProfilePage } from "../support/page_objects/profile"
 describe('Test Application', () => {
 
     beforeEach('Open Homepage', () => {
-        cy.intercept({ method: 'Get', path: 'tags' }, { fixture: 'tags.json' })
         cy.openHomePage()
-        // cy.loginToApplication()
+        cy.loginToApplication()
     })
 
-    it.only('Sign Up', () => {
-        onAccountPage.createNewAccount('Test723', 'test@test712.com', 'Testing')
+    it('Sign Up', () => {
+        onAccountPage.createNewAccount('Test4', 'test4@test.com', 'Testing')
     })
 
     it('Sign In', () => {
-        onAccountPage.logIn('test@test29.com', 'Testing')
+        onAccountPage.logIn('test5@test.com', 'Testing')
     })
 
     it('Add new Article', () => {
@@ -33,6 +32,10 @@ describe('Test Application', () => {
 
     it('Like Article', () => {
         onArticlePage.likeArticle(0)
+    })
+
+    it.only('Edit Article', () => {
+        onArticlePage.editArticle('test@test.com', 'Testing', 'Test20', 'Something Useless', 'Nothing good here, move on!', 'welcome')
     })
 
     it('Update Profile Settings', () => {
