@@ -3,6 +3,7 @@ import { navigateTo } from "../support/page_objects/navigation"
 import { onFormLayoutsPages } from "../support/page_objects/formLayoutsPage"
 import { onDatePickerPage } from "../support/page_objects/datePicker"
 import { onSmartTablePage } from "../support/page_objects/smartTablePage"
+import { onAccordionPage } from "../support/page_objects/layout"
 
 describe('Test App', () => {
 
@@ -204,6 +205,11 @@ describe('Test App', () => {
         onSmartTablePage.updateAgeByFirstName('Ann', '29')
         onSmartTablePage.addNewRecordWithFirstAndLastName('Robert', 'Csaszar')
         onSmartTablePage.deleteRowByIndex(4)
+    })
+
+    it.only('Test Accordion Page', () => {
+        navigateTo.accordion()
+        onAccordionPage.toggleAccordionOnButton()
     })
 
 })
